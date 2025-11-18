@@ -1,16 +1,16 @@
 <p align="center">
-  <a href="https://github.com/Haonter">
+  <a href="https://github.com/didacusdev">
     <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=30&duration=3500&pause=2500&color=0a94b2&center=true&vCenter=true&random=false&width=500&lines=Hi!%2C+i'm+Diego+Rodriguez+%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F;%C2%A1Hola!%2C+Soy+Diego+Rodriguez+%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F" alt="Who i am / Quien soy" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/Haonter">
+  <a href="https://github.com/didacusdev">
     <img src="./GitHub.png" width="750px" alt="Diego Rodriguez" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Haonter"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=25&duration=2000&pause=2000&color=0A94B2&center=true&vCenter=true&random=false&width=680&lines=+I'm+a+Full-Stack+Web+Developer;Soy+Desarrollador+Web+Full-Stack;And+Programming+Teacher;Y+Profesor+de+Programaci%C3%B3n;I+know+about;Se+sobre;HTML%2C+CSS%2C+SASS%2C+PUG%2C+Tailwind%2C+Bootstrap;JavaScript%2C+Python%2C+PHP%2C+TypeScript%2C+Java;React%2C+Laravel%2C+MySQL%2C+SQLite%2C+SQL+Server%2C+MongoDB;Node.js%2C+Express%2C+Flask%2C+WordPress;MCP+(Model+Context+Protocol);The+SCRUM+Framework;La+metodolog%C3%ADa+SCRUM;And+more...;Y+m%C3%A1s..." alt="My Knowledge / Mis conocimientos" /></a>
+  <a href="https://github.com/didacusdev"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=25&duration=2000&pause=2000&color=0A94B2&center=true&vCenter=true&random=false&width=680&lines=+I'm+a+Full-Stack+Web+Developer;Soy+Desarrollador+Web+Full-Stack;And+Programming+Teacher;Y+Profesor+de+Programaci%C3%B3n;I+know+about;Se+sobre;HTML%2C+CSS%2C+SASS%2C+PUG%2C+Tailwind%2C+Bootstrap;JavaScript%2C+Python%2C+PHP%2C+TypeScript%2C+Java;React%2C+Laravel%2C+MySQL%2C+SQLite%2C+SQL+Server%2C+MongoDB;Node.js%2C+Express%2C+Flask%2C+WordPress;MCP+(Model+Context+Protocol);The+SCRUM+Framework;La+metodolog%C3%ADa+SCRUM;And+more...;Y+m%C3%A1s..." alt="My Knowledge / Mis conocimientos" /></a>
 </p>
 
 <h3 align="center">
