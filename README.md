@@ -34,8 +34,8 @@ const mySkills = {
     monitoring_and_logging: ["Grafana"]
   },
   testing: {
-    unit_and_integration: ["Jest", "Vitest"],
-    load_and_performance: ["Locust"] 
+    unit_and_integration: ["Jest", "Vitest", Pytest],
+    load_and_performance: ["Locust", "Artillery"]
   },
   others: {
     protocols: ["MCP (Model Context Protocol)"],
