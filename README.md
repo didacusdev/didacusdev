@@ -12,22 +12,31 @@
 ```typescript
 const mySkills = {
   frontend: {
-    languages: ["HTML5", "CSS3", "JavaScript", "TypeScript"],
-    frameworks: ["Angular", "Astro"],
-    preprocessors: ["SASS", "PUG"],
-    libraries: ["React","Preact","Tailwind", "Bootstrap"]
+    languages: ["HTML", "CSS", "JavaScript", "TypeScript"],
+    js_frameworks_and_libraries: ["Angular", "Astro", "React", "Preact"],
+    css_frameworks: ["Tailwind", "Bootstrap"],
+    preprocessors: ["SASS", "PUG"]
   },
   backend: {
-    languages: ["PHP", "Python", "Java"],
-    frameworks: ["Node.js", "Express", "Laravel", "Flask"],
-    libraries: ["Axios", "Mongoose", "Helmet", "Morgan", "JWT", "etc..."]
-  },
+    languages: ["PHP", "Python", "JavaScript", "TypeScript"],
+    frameworks: ["Express", "Laravel", "Flask"],
+    runtime_environments: ["Node.js"],
+    libraries_and_middleware: ["Axios", "Mongoose", "Helmet", "Morgan", "JWT", "And more..."],
+    api_documentation: ["Swagger"]
+  }
   database: {
     sql: ["MySQL", "SQLite", "SQL Server"],
     noSQL: ["MongoDB"]
   },
-  ci_cd: ["GitHub Actions"],
-  testing: ["Jest", "Vitest"],
+  devops_ci_cd: {
+    ci_cd: ["GitHub Actions"],
+    containerization: ["Docker"],
+    monitoring_and_logging: ["Grafana"]
+  },
+  testing: {
+    unit_and_integration: ["Jest", "Vitest"],
+    load_and_performance: ["Locust"] 
+  },
   others: {
     protocols: ["MCP (Model Context Protocol)"],
     programmingTeaching: true,
@@ -39,7 +48,6 @@ const mySkills = {
     cms: ["WordPress"],
     versionControl: ["Git", "GitHub"],
     methodologies: ["SCRUM", "Kanban"],
-    containerization: ["Docker"],
     httpClients: ["Postman", "Insomnia"],
     design: ["Figma", "Adobe XD", "Adobe Photoshop", "Adobe Premiere"]
   }
