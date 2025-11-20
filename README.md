@@ -13,9 +13,9 @@
 const mySkills = {
   frontend: {
     languages: ["HTML5", "CSS3", "JavaScript", "TypeScript"],
-    frameworks: ["React", "Angular", "Astro"],
+    frameworks: ["Angular", "Astro"],
     preprocessors: ["SASS", "PUG"],
-    libraries: ["Tailwind", "Bootstrap"]
+    libraries: ["React","Preact","Tailwind", "Bootstrap"]
   },
   backend: {
     languages: ["PHP", "Python", "Java"],
