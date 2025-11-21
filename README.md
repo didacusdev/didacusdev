@@ -31,10 +31,10 @@ const mySkills = {
   devops_ci_cd: {
     ci_cd: ["GitHub Actions"],
     containerization: ["Docker"],
-    monitoring_and_logging: ["Grafana"]
+    monitoring_and_logging: ["Grafana", "Prometheus"]
   },
   testing: {
-    unit_and_integration: ["Jest", "Vitest", Pytest],
+    unit_and_integration: ["Jest", "Vitest", "Pytest"],
     load_and_performance: ["Locust", "Artillery"]
   },
   others: {
