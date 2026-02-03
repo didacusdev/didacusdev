@@ -19,14 +19,17 @@ const mySkills = {
   },
   backend: {
     languages: ["PHP", "Python", "JavaScript", "TypeScript"],
-    frameworks: ["Express", "Laravel", "Flask"],
+    frameworks: ["Express", "Flask", "FastAPI"],
     runtime_environments: ["Node.js"],
     libraries_and_middleware: ["Axios", "Mongoose", "Helmet", "Morgan", "JWT", "And more..."],
     api_documentation: ["Swagger"]
   },
+  fullstack: {
+    frameworks: ["Laravel"]
+  },
   database: {
-    sql: ["MySQL", "SQLite", "SQL Server"],
-    noSQL: ["MongoDB"]
+    sql: ["MySQL", "SQLite", "SQL Server", "PostgreSQL"],
+    no_SQL: ["MongoDB"]
   },
   devops_ci_cd: {
     ci_cd: ["GitHub Actions"],
@@ -39,16 +42,17 @@ const mySkills = {
   },
   others: {
     protocols: ["MCP (Model Context Protocol)"],
-    programmingTeaching: true,
-    marketingTeaching: true,
-    machineLearningBasics: true,
-    bigDataBasics: true
+    programming_teaching: true,
+    marketing_teaching: true,
+    machine_learning_basics: true,
+    big_data_basics: true
   },
   tools: {
     cms: ["WordPress"],
-    versionControl: ["Git", "GitHub"],
+    package_manager: ["pnpm", "npm", "composer", "deno", "pip"],
+    version_control: ["Git", "GitHub"],
     methodologies: ["SCRUM", "Kanban"],
-    httpClients: ["Postman", "Insomnia"],
+    http_clients: ["Postman", "Insomnia"],
     design: ["Figma", "Adobe XD", "Adobe Photoshop", "Adobe Premiere"]
   }
 };
