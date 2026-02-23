@@ -22,14 +22,14 @@ const mySkills = {
     frameworks: ["Express", "Flask", "FastAPI"],
     runtime_environments: ["Node.js"],
     libraries_and_middleware: ["Axios", "Mongoose", "Helmet", "Morgan", "JWT", "And more..."],
-    api_documentation: ["Swagger"]
+    api_documentation: ["Swagger/OpenAPI"]
   },
   fullstack: {
     frameworks: ["Laravel"]
   },
   database: {
     sql: ["MySQL", "SQLite", "SQL Server", "PostgreSQL"],
-    no_SQL: ["MongoDB"]
+    no_sql: ["MongoDB"]
   },
   devops_ci_cd: {
     ci_cd: ["GitHub Actions"],
@@ -37,23 +37,23 @@ const mySkills = {
     monitoring_and_logging: ["Grafana", "Prometheus"]
   },
   testing: {
-    unit_and_integration: ["Jest", "Vitest", "Pytest"],
+    unit_and_integration: ["Jest", "Vitest", "Pytest", "Pest"],
     load_and_performance: ["Locust", "Artillery"]
   },
-  others: {
-    protocols: ["MCP (Model Context Protocol)"],
-    programming_teaching: true,
-    marketing_teaching: true,
-    machine_learning_basics: true,
-    big_data_basics: true
-  },
-  tools: {
+  software_and_tools: {
     cms: ["WordPress"],
     package_manager: ["pnpm", "npm", "composer", "deno", "pip"],
+    protocols: ["MCP (Model Context Protocol)"],
     version_control: ["Git", "GitHub"],
     methodologies: ["SCRUM", "Kanban"],
     http_clients: ["Postman", "Insomnia"],
     design: ["Figma", "Adobe XD", "Adobe Photoshop", "Adobe Premiere"]
+  },
+  others: {
+    programming_teaching: true,
+    marketing_teaching: true,
+    machine_learning_fundamentals: true,
+    big_data_fundamentals: true
   }
 };
 ```
