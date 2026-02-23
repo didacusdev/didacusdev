@@ -36,7 +36,7 @@ const mySkills = {
   },
   ai_engineering: {
     connectivity: ["MCP (Model Context Protocol)"],
-    knowledge_base: ["Machine Learning Fundamentals", "Big Data"]
+    fundamentals_learned: ["Machine Learning", "Big Data", "Programming Paradigms", "Designs Pattern"]
   },
   tooling_workflow: {
     package_managers: ["pnpm", "npm", "composer", "pip", "maven"],
