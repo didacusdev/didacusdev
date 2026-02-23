@@ -56,7 +56,7 @@ const mySkills = {
 };
 ```
 
-> I am constantly learning / Me mantengo en constante aprendizaje
+> I am constantly learning to improve every day / Me mantengo en aprendizaje constante para mejorar cada día.
 
 <br/><br/>
 <p align="center">
