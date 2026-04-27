@@ -1,99 +1,194 @@
 <p align="center">
   <a href="https://github.com/didacusdev">
-    <img src="./didacusdev_gh.png" width="750px" alt="Diego Rodriguez" />
+    <img src="./didacusdev_gh.png" width="750px" alt="Diego Rodriguez">
   </a>
 </p>
 
+<p align="center">
+  <img width="20%" src="https://raw.githubusercontent.com/didacusdev/didacusdev/refs/heads/main/didacus_2.png">
+</p>
+<p align="center">
+  Fullstack developer focused on scalable systems, clean architecture, and developer experience.<br>
+  I think in trade-offs, design for maintainability, and care about observability and performance from day one.<br>
+  <br>
+  Desarrollador Fullstack enfocado en sistemas escalables, arquitectura limpia y experiencia de desarrollo.<br>
+  Pienso en trade-offs, diseño para la mantenibilidad y me preocupo por la observabilidad y el rendimiento desde el primer día.
+</p>
+
+<br>
+
+<p align="center">
+  🔭 &nbsp;<b>Building / Construyendo:</b> apps Fullstack con TypeScript &nbsp;|&nbsp;
+  📐 &nbsp;<b>Deep-diving / Profundizando:</b> AI Engineering &amp; MCP &nbsp;
+</p>
+
+<br>
+
+---
+
 <h3 align="center">Technologies I Use / Tecnologías que uso</h3>
 <p align="center">
-  <img width=20% src="https://raw.githubusercontent.com/didacusdev/didacusdev/refs/heads/main/didacus_1.png"/> 
+  <img width="20%" src="https://raw.githubusercontent.com/didacusdev/didacusdev/refs/heads/main/didacus_1.png">
 </p>
 
 ```ts
-const mySkills = {
-  frontend: {
-    languages: ["HTML", "CSS", "JavaScript", "TypeScript"],
-    frameworks: ["Angular", "Astro"],
-    libraries: ["React", "Preact", "HTMX"],
-    styling: ["Tailwind", "Bootstrap"],
-    preprocessors: ["SASS", "PUG"]
+const profile = {
+
+  // Things I've shipped to production and know deeply
+  // Lo que he llevado a producción y domino en profundidad
+  core_expertise: {
+    frontend: {
+      languages:     ["HTML", "CSS", "JavaScript", "TypeScript"],
+      frameworks:    ["Angular", "Astro"],
+      libraries:     ["React", "Preact", "HTMX"],
+      styling:       ["Tailwind", "Bootstrap"],
+      preprocessors: ["SASS", "PUG"]
+    },
+    backend: {
+      languages:              ["PHP", "Python", "JavaScript", "TypeScript"],
+      frameworks:             ["Laravel", "Express", "FastAPI", "Flask"],
+      runtimes:               ["Node.js", "Deno"],
+      middleware_and_tooling: ["Zod", "JWT", "Mongoose", "Axios", "Helmet", "Morgan"],
+      api_documentation:      ["Swagger / OpenAPI"]
+    },
+    databases: {
+      relational:     ["MySQL", "PostgreSQL", "SQL Server", "SQLite"],
+      non_relational: ["MongoDB"]
+    }
   },
-  backend: {
-    languages: ["PHP", "Python", "JavaScript", "TypeScript"],
-    frameworks: ["Laravel", "Express", "FastAPI", "Flask"],
-    runtimes: ["Node.js", "Deno"],
-    tooling_and_middleware: ["Zod", "JWT", "Mongoose", "Axios", "Helmet", "Morgan", "And more..."],
-    api_documentation: ["Swagger/OpenAPI"]
+
+  // Areas I care about beyond writing features
+  // Áreas que me importan más allá de escribir funcionalidades
+  deep_interests: {
+    devops:     ["Docker", "GitHub Actions"],
+    monitoring: ["Grafana"],                         // observability from day one / observabilidad desde el día uno
+    testing: {
+      unit_integration: ["Jest", "Vitest", "Pytest", "Pest"],
+      load_performance: ["Locust", "Artillery"]      // I test at scale / pruebo a escala
+    },
+    design: ["Figma", "Adobe XD"],
+    agile:  ["SCRUM", "Kanban"]
   },
-  databases: {
-    sql: ["MySQL", "PostgreSQL", "SQL Server", "SQLite"],
-    no_sql: ["MongoDB"]
+
+  // Actively learning & exploring / Aprendiendo y explorando activamente
+  currently_exploring: {
+    ai_engineering: {
+      protocols:    ["MCP (Model Context Protocol)"],
+      fundamentals: ["Machine Learning", "Big Data"]
+    },
+    concepts: ["Clean Architecture", "System Design", "Design Patterns"]
   },
-  devops_and_testing: { 
-    tools: ["Docker", "GitHub Actions"],
-    monitoring: ["Grafana"],
-    testing: ["Jest", "Vitest", "Pytest", "Pest", "Locust", "Artillery"]
-  },
-  ai_engineering: {
-    connectivity: ["MCP (Model Context Protocol)"],
-    fundamentals_learned: ["Machine Learning", "Big Data", "Programming Paradigms", "Designs Pattern"]
-  },
-  tooling_workflow: {
+
+  // Day-to-day workflow / Flujo de trabajo diario
+  workflow: {
     package_managers: ["pnpm", "npm", "composer", "pip", "maven"],
-    version_control: ["Git", "GitHub"],
-    api_clients: ["Postman", "Insomnia"],
-    agile: ["SCRUM", "Kanban"]
+    version_control:  ["Git", "GitHub"],
+    api_clients:      ["Postman", "Insomnia"],
+    documentation:    ["Notion", "Swagger / OpenAPI"]
   },
-  design_content: {
-    ui_ux: ["Figma", "Adobe XD"],
-    creative: ["Photoshop", "Premiere"],
-    cms: ["WordPress"]
-  },
+
+  // Teaching since 2022 / Docente desde 2022
   professional_profile: {
-    teaching: ["Programming", "Marketing"],
+    teaching:      ["Programming", "Web Development", "Marketing"],
     documentation: ["Notion"]
   }
+
 };
+```
+
+<br>
+
+---
+
+<h3 align="center">Engineering Philosophy / Filosofía de Ingeniería</h3>
+
+```json
+{
+  "engineeringPhilosophy": [
+    "Observability is not optional / La observabilidad no es opcional",
+    "Testability is architecture / La testeabilidad es arquitectura",
+    "Docs ship with the feature / La documentación es parte de la funcionalidad",
+    "Write for the next developer / Escribe para el siguiente desarrollador",
+    "Proven tech for critical paths / Tecnología probada para rutas críticas",
+    "Load tests in CI, not post-mortems / Pruebas de carga en CI, no en post-mortems"
+  ]
+}
 ```
 
 > [!NOTE]
 > I am constantly learning to improve every day / Me mantengo en constante aprendizaje para mejorar cada día.
 
-<br/><br/>
-<!-- <p align="center">
-    <img width="22%" src="https://www.codedex.io/images/homepage/room2.png"/>
-</p> -->
-<!--
-<h3 align="center">Top languages in public repositories / Top Lenguajes en repositorios publicos <img width=7% src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bde86535-8203-40c4-8a0c-f40d10a18e8e/d11gwgl-1102df2b-8c9e-4d92-97d4-4d6cb454a274.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JkZTg2NTM1LTgyMDMtNDBjNC04YTBjLWY0MGQxMGExOGU4ZVwvZDExZ3dnbC0xMTAyZGYyYi04YzllLTRkOTItOTdkNC00ZDZjYjQ1NGEyNzQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.DAoQWljBbvsU3NWrtOWJHgMTjUCtsm7Q8xBuWCjll9Y"/></h3>
--->
+<br>
 
-<!--
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=didacusdev&layout=compact&hide_border=true&border_radius=20&title_color=ffffff&text_color=ffffff&bg_color=DEG,001f34,00709a,001f34&&card_width=600px">
-</p>
--->
+---
 
-<!-- Social icons section -->
-<br/>
-<h3 align="center">Social Networks / Redes Sociales</h3>
+<h3 align="center">Featured Projects / Proyectos Destacados</h3>
 <p align="center">
-    <!--<img width="22%" src="https://www.codedex.io/images/homepage/room2.png"/>-->
-    <img width="20%" src="https://raw.githubusercontent.com/didacusdev/didacusdev/refs/heads/main/didacus_2.png" />
+  <img width="20%" src="https://raw.githubusercontent.com/didacusdev/didacusdev/refs/heads/main/didacus_3.png">
+</p>
+
+<div align="center">
+
+| Project / Proyecto | Stack | Highlights / Aspectos clave |
+|--------------------|-------|-----------------------------|
+|**[Portfolio — diegorodriguez.dev](https://diegorodriguez.dev)** | Astro · TypeScript · Tailwind | Static-first · 100 Lighthouse score · edge deploy |
+|**[MCP-Servers](https://github.com/didacusdev/MCP-Servers)** | TypeScript · MCP SDK | 2 servidores MCP (OnePiece + Geolocalizar) · publicado en Smithery |
+|**[Formacion Node + Express](https://github.com/didacusdev/Formacion_node_express)** | Node.js · Express · MongoDB · Swagger | API RESTful dictada como formación DAW · CI/CD · versionado semántico |
+|**[PDF Reader](https://github.com/didacusdev/PDF_Reader)** | JavaScript · PDF.js · PageFlip · Vite | Lector de PDF con efecto 3D de libro · fullscreen · zoom · teclado |
+
+</div>
+
+<br>
+
+---
+
+<h3 align="center">Main Organizations / Principales Organizaciones</h3>
+<p align="center">
+  <a href="https://github.com/didacusdev-org">
+    <img src="https://img.shields.io/badge/didacusdev--org-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white">
+  </a>
+  &nbsp;
+  <a href="https://github.com/Haonter-ERP">
+    <img src="https://img.shields.io/badge/Haonter--ERP-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white">
+  </a>
+</p>
+
+<br>
+
+---
+
+<h3 align="center">GitHub Stats / Estadísticas de GitHub</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=didacusdev&amp;layout=compact&amp;hide_border=true&amp;border_radius=20&amp;title_color=ffffff&amp;text_color=ffffff&amp;bg_color=0,001f34,00709a,001f34&amp;card_width=450">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=didacusdev&amp;hide_border=true&amp;border_radius=20&amp;background=45,001f34,00709a,001f34&amp;ring=00b4d8&amp;fire=00b4d8&amp;currStreakLabel=ffffff&amp;sideLabels=ffffff&amp;dates=ffffff&amp;currStreakNum=ffffff&amp;sideNums=ffffff">
+</p>
+
+<br>
+
+---
+
+<h3 align="center">Find me / Encuéntrame</h3>
+<p align="center">
+  <img width="20%" src="https://raw.githubusercontent.com/didacusdev/didacusdev/refs/heads/main/Logo v2_3D_20251021_165507_0000.png">
 </p>
 <p align="center">
-  <a href="https://instagram.com/didacusdev">
-    <img width="35px" alt="Instagram" title="Instagram" src="https://i.imgur.com/0Q8VJ80.png"/>
-  </a>
-  &nbsp&nbsp&nbsp
-  <a href="https://twitch.tv/didacusdev">
-    <img width="34px" alt="Instagram" title="Twitch" src="https://cdn-icons-png.flaticon.com/512/3991/3991943.png"/>
-  </a>
-  &nbsp&nbsp&nbsp
-  <a href="https://linkedin.com/in/didacusdev">
-    <img width="30px" alt="LinkedIn" title="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"/>
-  </a>
-  &nbsp&nbsp&nbsp
   <a href="https://diegorodriguez.dev">
-    <img src="https://cdn-icons-png.flaticon.com/512/10061/10061836.png" width="32px" alt="Portfolio" title="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-diegorodriguez.dev-00b4d8?style=for-the-badge&logo=safari&logoColor=white">
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/didacusdev">
+    <img src="https://img.shields.io/badge/Instagram-didacusdev-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  &nbsp;
+  <a href="https://twitch.tv/didacusdev">
+    <img src="https://img.shields.io/badge/Twitch-didacusdev-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+  </a>
+   &nbsp;
+  <a href="https://linkedin.com/in/didacusdev">
+    <img src="https://img.shields.io/badge/LinkedIn-didacusdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
