@@ -101,6 +101,9 @@ const profile = {
 ---
 
 <h3 align="center">Engineering Philosophy / Filosofía de Ingeniería</h3>
+<p align="center">
+  <img width="20%" src="https://raw.githubusercontent.com/didacusdev/didacusdev/refs/heads/main/didacus_5.png">
+</p>
 
 ```json
 {
