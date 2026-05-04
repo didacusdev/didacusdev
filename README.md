@@ -156,11 +156,9 @@ const profile = {
   </a>
 </p>
 
-<br>
-
 ---
 
-<h3 align="center">GitHub Stats / Estadísticas de GitHub</h3>
+<!-- <h3 align="center">GitHub Stats / Estadísticas de GitHub</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=didacusdev&amp;layout=compact&amp;hide_border=true&amp;border_radius=20&amp;title_color=ffffff&amp;text_color=ffffff&amp;bg_color=0,001f34,00709a,001f34&amp;card_width=450">
@@ -172,7 +170,7 @@ const profile = {
 
 <br>
 
----
+--- -->
 
 <h3 align="center">Find me / Encuéntrame</h3>
 <p align="center">
